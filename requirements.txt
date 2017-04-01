@@ -1,0 +1,26 @@
+appdirs==1.4.3
+click==6.7
+Flask==0.12.1
+funcsigs==1.0.2
+futures==3.0.5
+IndicoIo==1.0.8
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==1.0
+mock==1.3.0
+nltk==3.2.2
+oauthlib==2.0.2
+olefile==0.44
+packaging==16.8
+pbr==2.0.0
+Pillow==4.0.0
+-e git+https://github.com/flockchat/pyflock@7983837f23a2cbce10fb61b3546411c9d6d16f32#egg=pyflock
+PyJWT==1.4.2
+pyparsing==2.2.0
+requests==2.13.0
+requests-oauthlib==0.8.0
+simplejson==3.10.0
+six==1.10.0
+tweepy==3.5.0
+Werkzeug==0.12.1
+wit==4.2.0
